@@ -163,13 +163,13 @@ const skills = {
         "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS"
       ],
       softwareSkills: [
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4"
-          }
-        },
+        // {
+        //   skillName: "GCP",
+        //   fontAwesomeClassname: "simple-icons:googlecloud",
+        //   style: {
+        //     color: "#4285F4"
+        //   }
+        // },
         {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
@@ -177,13 +177,13 @@ const skills = {
             color: "#FF9900"
           }
         },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6"
-          }
-        },
+        // {
+        //   skillName: "Azure",
+        //   fontAwesomeClassname: "simple-icons:microsoftazure",
+        //   style: {
+        //     color: "#0089D6"
+        //   }
+        // },
         {
           skillName: "Firebase",
           fontAwesomeClassname: "simple-icons:firebase",
@@ -191,13 +191,13 @@ const skills = {
             color: "#FFCA28"
           }
         },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791"
-          }
-        },
+        // {
+        //   skillName: "PostgreSQL",
+        //   fontAwesomeClassname: "simple-icons:postgresql",
+        //   style: {
+        //     color: "#336791"
+        //   }
+        // },
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
@@ -273,7 +273,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866"
       },
-      profileLink: "https://www.hackerrank.com/layman_brother"
+      profileLink: ""
     },
     {
       siteName: "Codechef",
@@ -281,7 +281,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638"
       },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919"
+      profileLink: ""
     },
     {
       siteName: "Codeforces",
@@ -289,7 +289,7 @@ const competitiveSites = {
       style: {
         color: "#1F8ACB"
       },
-      profileLink: "http://codeforces.com/profile/layman_brother"
+      profileLink: ""
     },
     {
       siteName: "Hackerearth",
@@ -297,7 +297,7 @@ const competitiveSites = {
       style: {
         color: "#323754"
       },
-      profileLink: "https://www.hackerearth.com/@ashutosh391"
+      profileLink: ""
     },
     {
       siteName: "Kaggle",
@@ -305,7 +305,7 @@ const competitiveSites = {
       style: {
         color: "#20BEFF"
       },
-      profileLink: "https://www.kaggle.com/laymanbrother"
+      profileLink: ""
     }
   ]
 }
@@ -313,17 +313,17 @@ const competitiveSites = {
 const degrees = {
   degrees : [
     {
-      title: "Indian Institute of Information Technology Kurnool",
+      title: "Sambhram Institute of Technology, Bangalore,
       subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - Present",
+      logo_path: "sait.jpg",
+      alt_name: "SAIT, Bangalore",
+      duration: "2017 - Present",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics."
+        
       ],
-      website_link: "http://iiitk.ac.in"
+      website_link: "https://sambhramit.com/"
     }
   ]
 }
