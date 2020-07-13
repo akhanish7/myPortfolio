@@ -8,71 +8,71 @@ const settings = {
 
 //Home Page
 const greeting = {
-	title: "Ashutosh Hathidara",
-	logo_name: "AshutoshHathidara",
-	nickname: "layman_brother",
+	title: "AK Hanish,
+	logo_name: "AKH",
+	nickname: "✿ I want a Better Version of Mine ✿ ",
 	subTitle:
 		"A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
 	resumeLink:
-		"https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
-	portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+		"https://drive.google.com/file/d/1Sumn2vTX_Q7uuOUhFhs_EbbLXGq5j_T4/view?usp=sharing",
+	portfolio_repository: "https://github.com/akhanish7/myPortfolio",
 };
 
 const socialMediaLinks = {
 	/* Your Social Media Link */
-	github: "https://github.com/ashutosh1919",
-	linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-	gmail: "ashutoshhathidara98@gmail.com",
-	gitlab: "https://gitlab.com/ashutoshhathidara98",
-	facebook: "https://www.facebook.com/laymanbrother.19/",
-	twitter: "https://twitter.com/ashutosh_1919",
-	instagram: "https://www.instagram.com/layman_brother/"
+	github: "https://github.com/akhanish7/,
+	linkedin: "https://www.linkedin.com/in/akhanish/",
+	gmail: "akhanish7@gmail.com",
+	// gitlab: "https://gitlab.com/ashutoshhathidara98",
+	facebook: "https://www.facebook.com/profile.php?id=100016731278029",
+	// twitter: "https://twitter.com/ashutosh_1919",
+	instagram: "https://www.instagram.com/ak._.hanish/"
 };
 
 const skills = {
   data: [
-    {
-      title: "Data Science & AI",
-      fileName: "DataScienceImg",
-      skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis"
-      ],
-      softwareSkills: [
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent"
-          }
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000"
-          }
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent"
-          }
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB"
-          }
-        }
-      ]
-    },
-    {
+    // {
+    //   title: "Data Science & AI",
+    //   fileName: "DataScienceImg",
+    //   skills: [
+    //     "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
+    //     "⚡ Experience of working with Computer Vision and NLP projects",
+    //     "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis"
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: "Tensorflow",
+    //       fontAwesomeClassname: "logos-tensorflow",
+    //       style: {
+    //         backgroundColor: "transparent"
+    //       }
+    //     },
+    //     {
+    //       skillName: "Keras",
+    //       fontAwesomeClassname: "simple-icons:keras",
+    //       style: {
+    //         backgroundColor: "white",
+    //         color: "#D00000"
+    //       }
+    //     },
+    //     {
+    //       skillName: "PyTorch",
+    //       fontAwesomeClassname: "logos-pytorch",
+    //       style: {
+    //         backgroundColor: "transparent"
+    //       }
+    //     },
+    //     {
+    //       skillName: "Python",
+    //       fontAwesomeClassname: "ion-logo-python",
+    //       style: {
+    //         backgroundColor: "transparent",
+    //         color: "#3776AB"
+    //       }
+    //     }
+    //   ]
+    // },
+    // {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
@@ -155,12 +155,11 @@ const skills = {
       ]
     },
     {
-      title: "Cloud Infra-Architecture",
+      title: "Cloud Architecture",
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
         "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS"
       ],
       softwareSkills: [
