@@ -511,7 +511,7 @@ const contactPageData = {
     title: 'Contact Me',
     profile_image_path: 'Hanish Pic.jpeg',
     description:
-      'I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.',
+      'I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Full Stack, Cloud  and Opensource Development.',
   },
   blogSection: {
     title: 'My Business Website',
@@ -525,7 +525,8 @@ const contactPageData = {
     subtitle:
       '#74 5th Cross, DKN Road Near Sambhram Institute of Technology, MS Palya Bangalore',
     avatar_image_path: 'address_image.svg',
-    location_map_link: 'https://goo.gl/maps/MpMqtRZytFchMkZ76',
+    location_map_link:
+      'https://www.google.com/maps/place/AKH+Innovations/@13.0925862,77.5444281,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae23188cf28d99:0x68f18aef16d4124d!8m2!3d13.0925862!4d77.5466168',
   },
   phoneSection: {
     title: 'Phone Number',
