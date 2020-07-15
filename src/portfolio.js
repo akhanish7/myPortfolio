@@ -287,113 +287,112 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: 'Machine Learning',
-      subtitle: '- Andrew Ng',
-      logo_path: 'stanford_logo.png',
-      certificate_link:
-        'https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM',
-      alt_name: 'Stanford University',
+      title: 'Android Developement',
+      subtitle: 'Workshop',
+      logo_path: 'wac.png',
+      certificate_link: '',
+      alt_name: 'WHAT AFTER COLLEGE',
       color_code: '#8C151599',
     },
     {
-      title: 'Deep Learning',
-      subtitle: '- Andrew Ng',
-      logo_path: 'deeplearning_ai_logo.png',
+      title: 'Java Foundation',
+      subtitle: 'Solo Learn',
+      logo_path: 'sololearn.png',
       certificate_link:
-        'https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G',
-      alt_name: 'deeplearning.ai',
+        'https://www.sololearn.com/Certificate/1068-13153649/pdf/',
+      alt_name: 'Java',
       color_code: '#00000099',
     },
     {
-      title: 'ML on GCP',
-      subtitle: '- GCP Training',
-      logo_path: 'google_logo.png',
+      title: 'HTML 5',
+      subtitle: 'Solo Learn',
+      logo_path: 'sololearn.png',
       certificate_link:
-        'https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647',
-      alt_name: 'Google',
+        'https://www.sololearn.com/Certificate/1014-13153649/pdf/',
+      alt_name: 'HTML 5',
       color_code: '#0C9D5899',
     },
     {
-      title: 'Data Science',
-      subtitle: '- Alex Aklson',
-      logo_path: 'ibm_logo.png',
+      title: 'JP Morgan & Chase Virual Work',
+      subtitle: 'Inside Sherpa',
+      logo_path: 'insidesherpa.png',
       certificate_link:
-        'https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5',
-      alt_name: 'IBM',
+        'https://insidesherpa.s3.amazonaws.com/completion-certificates/JP%20Morgan/R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_9JkfFrTHuJQBXueb5_completion_certificate.pdf',
+      alt_name: 'Inside Sherpa',
       color_code: '#1F70C199',
     },
-    {
-      title: 'Big Data',
-      subtitle: '- Kim Akers',
-      logo_path: 'microsoft_logo.png',
-      certificate_link:
-        'https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view',
-      alt_name: 'Microsoft',
-      color_code: '#D83B0199',
-    },
-    {
-      title: 'Advanced Data Science',
-      subtitle: '- Romeo Kienzler',
-      logo_path: 'ibm_logo.png',
-      certificate_link:
-        'https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH',
-      alt_name: 'IBM',
-      color_code: '#1F70C199',
-    },
-    {
-      title: 'Advanced ML on GCP',
-      subtitle: '- GCP Training',
-      logo_path: 'google_logo.png',
-      certificate_link:
-        'https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV',
-      alt_name: 'Google',
-      color_code: '#0C9D5899',
-    },
-    {
-      title: 'DL on Tensorflow',
-      subtitle: '- Laurence Moroney',
-      logo_path: 'deeplearning_ai_logo.png',
-      certificate_link:
-        'https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8',
-      alt_name: 'deeplearning.ai',
-      color_code: '#00000099',
-    },
-    {
-      title: 'Fullstack Development',
-      subtitle: '- Jogesh Muppala',
-      logo_path: 'coursera_logo.png',
-      certificate_link:
-        'https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA',
-      alt_name: 'Coursera',
-      color_code: '#2A73CC',
-    },
-    {
-      title: 'Kuberenetes on GCP',
-      subtitle: '- Qwiklabs',
-      logo_path: 'gcp_logo.png',
-      certificate_link:
-        'https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750',
-      alt_name: 'GCP',
-      color_code: '#4285F499',
-    },
-    {
-      title: 'Cryptography',
-      subtitle: '- Saurabh Mukhopadhyay',
-      logo_path: 'nptel_logo.png',
-      certificate_link:
-        'https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_',
-      alt_name: 'NPTEL',
-      color_code: '#FFBB0099',
-    },
-    {
-      title: 'Cloud Architecture',
-      subtitle: '- Qwiklabs',
-      logo_path: 'gcp_logo.png',
-      certificate_link:
-        'https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2',
-      alt_name: 'GCP',
-      color_code: '#4285F499',
-    },
+    // {
+    //   title: 'Big Data',
+    //   subtitle: '- Kim Akers',
+    //   logo_path: 'microsoft_logo.png',
+    //   certificate_link:
+    //     'https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view',
+    //   alt_name: 'Microsoft',
+    //   color_code: '#D83B0199',
+    // },
+    // {
+    //   title: 'Advanced Data Science',
+    //   subtitle: '- Romeo Kienzler',
+    //   logo_path: 'ibm_logo.png',
+    //   certificate_link:
+    //     'https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH',
+    //   alt_name: 'IBM',
+    //   color_code: '#1F70C199',
+    // },
+    // {
+    //   title: 'Advanced ML on GCP',
+    //   subtitle: '- GCP Training',
+    //   logo_path: 'google_logo.png',
+    //   certificate_link:
+    //     'https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV',
+    //   alt_name: 'Google',
+    //   color_code: '#0C9D5899',
+    // },
+    // {
+    //   title: 'DL on Tensorflow',
+    //   subtitle: '- Laurence Moroney',
+    //   logo_path: 'deeplearning_ai_logo.png',
+    //   certificate_link:
+    //     'https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8',
+    //   alt_name: 'deeplearning.ai',
+    //   color_code: '#00000099',
+    // },
+    // {
+    //   title: 'Fullstack Development',
+    //   subtitle: '- Jogesh Muppala',
+    //   logo_path: 'coursera_logo.png',
+    //   certificate_link:
+    //     'https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA',
+    //   alt_name: 'Coursera',
+    //   color_code: '#2A73CC',
+    // },
+    // {
+    //   title: 'Kuberenetes on GCP',
+    //   subtitle: '- Qwiklabs',
+    //   logo_path: 'gcp_logo.png',
+    //   certificate_link:
+    //     'https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750',
+    //   alt_name: 'GCP',
+    //   color_code: '#4285F499',
+    // },
+    // {
+    //   title: 'Cryptography',
+    //   subtitle: '- Saurabh Mukhopadhyay',
+    //   logo_path: 'nptel_logo.png',
+    //   certificate_link:
+    //     'https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_',
+    //   alt_name: 'NPTEL',
+    //   color_code: '#FFBB0099',
+    // },
+    // {
+    //   title: 'Cloud Architecture',
+    //   subtitle: '- Qwiklabs',
+    //   logo_path: 'gcp_logo.png',
+    //   certificate_link:
+    //     'https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2',
+    //   alt_name: 'GCP',
+    //   color_code: '#4285F499',
+    // },
   ],
 };
 
@@ -552,10 +551,10 @@ const contactPageData = {
       'I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.',
   },
   blogSection: {
-    title: 'Blogs',
+    title: 'My Business Website',
     subtitle:
-      'For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.',
-    link: '',
+      'For individual fundamental empowerment, I like to create powerful Applications that create impact on each of the user with Quality Products!',
+    link: 'https://www.akhinnovations.ml/',
     avatar_image_path: 'blogs_image.svg',
   },
   addressSection: {
