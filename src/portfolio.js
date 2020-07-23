@@ -2,14 +2,14 @@
 
 // Website related settings
 const settings = {
-  isSplash: false, // Change this to false if you don't want Splash screen.
+  isSplash: true, // Change this to false if you don't want Splash screen.
 };
 
 //Home Page
 const greeting = {
   title: 'AK Hanish',
   logo_name: 'AKH',
-  nickname: '✿ I want a Better Version of Mine ✿ ',
+  nickname: 'Tech Geek',
   subTitle:
     'A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.',
   resumeLink:

@@ -7,18 +7,6 @@
 # Software Developer Master Portfolio 🔥  
 > A clean, beautiful, responsive and 100% customizable portfolio template for Software Developers!
 
-[![HitCount](http://hits.dwyl.com/ashutosh1919/masterPortfolio.svg)](http://hits.dwyl.com/ashutosh1919/masterPortfolio) [![NodeJS](https://img.shields.io/badge/node-12.14.1-important)](https://img.shields.io/badge/node-12.14.1-important) [![NPM](https://img.shields.io/badge/npm-6.13.7-blueviolet)](https://img.shields.io/badge/npm-6.13.7-blueviolet) [![Made With React](https://img.shields.io/badge/made%20with-react-61DAFB)](https://img.shields.io/badge/npm-6.13.7-blueviolet) [![Price](https://img.shields.io/badge/price-free-ff69b4)](https://img.shields.io/badge/price-free-ff69b4) [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/ashutosh1919/masterPortfolio/commits/master) [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://ashutosh1919.github.io/) [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/ashutosh-hathidara-88710b138/)
-
-
-
-<p align="center"> 
-  <kbd>
-    <a href="https://ashutosh1919.github.io" target="_blank">
-    <img src="images/masterPortfolioThemes.png"></img>
-  </a>
-  </kbd>
-</p>
-
 :star: Star us on GitHub — it helps!
 
 # Sections 📚
@@ -31,15 +19,13 @@
 ✔️ Education\
 ✔️ Contact me
 
-To view a live example, **[click here](https://ashutosh1919.github.io/)**
-
 # Clone And Use 📋
 - The website is completely built on `react-js` framework of `javascript` and that's why we need `nodejs` and `npm` installed.
 - While installing `nodejs` and `npm`, try to install versions which are equal or greater than the versions mentioned in badges above.
 - You can fork the repository just by clicking the button on the top-right corner of this page.
 - After the successful installation of `nodejs` and `npm`, clone the repository into your local system using below command:
     - ```python
-       git clone https://github.com/ashutosh1919/masterPortfolio.git
+       git clone https://github.com/akhanish7/myPortfolio.git
        ```
     - This will clone the whole repository in your system.
 - To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
@@ -146,17 +132,9 @@ If you can help us with these. Please don't hesitate to open an [pull request](h
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tr>
-        <td align="center"><a href="http://ashutosh1919.github.io"><img src="https://avatars3.githubusercontent.com/u/20843596?s=460&u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4" width="100px;" alt=""/><br /><sub><b>Ashutosh Hathidara</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=ashutosh1919" title="Code">💻</a> <a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=ashutosh1919" title="Documentation">📖</a> <a href="#design-ashutosh1919" title="Design">🎨</a> <a href="#maintenance-ashutosh1919" title="Maintenance">🚧</a> <a href="#ideas-ashutosh1919" title="Ideas, Planning, & Feedback">🤔</a></td>
-  </tr>
-</table>
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 # References 👏🏻
 Some Design and Implementation Ideas are taken from [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio).
-
-# Sponsors 🚩
-<a href="https://tracking.gitads.io/?repo=masterPortfolio"><img src="https://images.gitads.io/masterPortfolio" alt="GitAds"/></a>
