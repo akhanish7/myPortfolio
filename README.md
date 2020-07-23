@@ -126,9 +126,7 @@ If you can help us with these. Please don't hesitate to open an [pull request](h
 - Add Podcast Section and Video Section
 - Add tests to automate review.
 - Setup Travis workflow.
-
-# Contributors ✨
-
+  
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
