@@ -1,9 +1,3 @@
-<p align="center"> 
-  <kbd>
-    <img src="images/MasterPortfolioLogo.png" align="center" height="150"></img>
-  </kbd>
-</p>
-
 # Software Developer Master Portfolio 🔥  
 > A clean, beautiful, responsive and 100% customizable portfolio template for Software Developers!
 
